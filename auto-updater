@@ -1,0 +1,10 @@
+--[[
+╱╱╱╱╱╱╱╱╱╭╮╱╱╭╮
+╭━┳━┳┳━┳━┫╰┳┳┫╰╮
+┃┻┫┃┃┃╋┃╋┃┃┃┃┃╋┃
+╰━┻┻━╋╮┣━┻┻┻━┻━╯
+╱╱╱╱╱╰━╯ V2.00 BETA
+]]
+
+                                      -- Script --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joeengo/Engo-Hub/main/2-00", true))()
